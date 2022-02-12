@@ -1,0 +1,14 @@
+{
+  "name": "knightproblem",
+  "version": "1.0.0",
+  "description": "a web application to solve and find the shortest path for a knight to go from square to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louzani Zineddine",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

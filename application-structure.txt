@@ -1,0 +1,17 @@
+IDEA:
+    this is anpplication that solves a commen chess problem 
+    consider n * n squares and a is a given square where the knight is staing 
+    b is a square where the knight intends to go to 
+    find the shortest path for the knight from a to b
+
+
+
+    ==> with JavaScript we generate the board.
+    ==> for every cell has an id describing the rank and the file
+    ==> every rank has a number from 1 to n
+    ==> every file has a letter from a to the n letter
+    ==> for simplicity we take n = 8 
+    ==> we take as input the location of the knight 
+    ==> we take as a seconf input the destination where the knight wants to go
+    
+    

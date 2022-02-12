@@ -1,0 +1,25 @@
+.chessboard { 
+    display: flex;
+    justify-content: center;
+}
+
+.rank {
+    display: flex;
+    flex-direction: column;
+}
+
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    width: 4rem;
+    border: 1px solid white;
+    transition: 0.3s;
+}
+
+.square:hover {
+    background-color: darkcyan;
+    color: white;
+    cursor: pointer;
+}
